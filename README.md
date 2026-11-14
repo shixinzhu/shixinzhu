@@ -1,16 +1,28 @@
-## Hi there 👋
 
-<!--
-**shixinzhu/shixinzhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Your Name!
 
-Here are some ideas to get you started:
+### Robotics Software Engineer | ROS 2 | PX4 | Computer Vision
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 I'm passionate about robotics, autonomous systems, and open-source software.
+
+🤖 Currently working on:
+- ROS 2 based autonomous drone systems
+- PX4 flight control integration
+- Visual-Inertial Odometry (VIO)
+- Computer Vision and Robotics
+
+🛠️ Technologies & Tools:
+- C++, Python
+- ROS 2, PX4, Gazebo
+- OpenCV, Eigen
+- Linux, Git, CMake
+
+📚 Always learning, building, and exploring new technologies.
+
+📫 Feel free to connect with me!
+
+---
+
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default)
